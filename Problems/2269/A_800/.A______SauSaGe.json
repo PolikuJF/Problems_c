@@ -1,0 +1,14 @@
+{
+  "name": "A. Банк SauSaGe",
+  "group": "Codeforces - Live",
+  "url": "https://codeforces.com/contest/Live/problem/A",
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "5\n1 1\n2 1\n4 3\n5 5\n10 2\n",
+      "output": "2\n4\n8\n10\n514\n"
+    }
+  ],
+  "testType": "single"
+}
