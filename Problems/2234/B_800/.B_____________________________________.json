@@ -1,0 +1,14 @@
+{
+  "name": "B. Палиндром, двенадцать, два слагаемых",
+  "group": "Codeforces - Live",
+  "url": "https://codeforces.com/contest/Live/problem/B",
+  "memoryLimit": 256,
+  "timeLimit": 1500,
+  "tests": [
+    {
+      "input": "6\n1\n10\n310\n12\n1000000000\n6111111111111111\n",
+      "output": "1 0\n-1\n262 48\n0 12\n889989988 110010012\n111111111111111 6000000000000000\n"
+    }
+  ],
+  "testType": "single"
+}

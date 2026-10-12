@@ -1,0 +1,14 @@
+{
+  "name": "A. Евклид, последовательность, два числа",
+  "group": "Codeforces - Live",
+  "url": "https://codeforces.com/contest/Live/problem/A",
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "6\n2\n1 1\n2\n1 2\n4\n1 2 3 4\n3\n6 4 2\n4\n3 8 13 5\n3\n1 1 1\n",
+      "output": "1 1\n2 1\n-1\n6 4\n13 8\n-1\n"
+    }
+  ],
+  "testType": "single"
+}
